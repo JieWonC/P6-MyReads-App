@@ -9,7 +9,7 @@ Of course, you are free to start this project from scratch if you wish! Just be 
 To get started developing right away:
 * Clone this repo or Download a zip file
 ```
-$ git clone https://github.com/JieWonC/
+https://github.com/JieWonC/P6-MyReads-App.git
 ```
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
